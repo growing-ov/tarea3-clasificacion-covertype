@@ -5,6 +5,10 @@ salidas guardadas (tablas, figuras, matriz de confusión y reporte por clase).
 
 ---
 
+**Repositorio:** https://github.com/growing-ov/tarea3-clasificacion-covertype
+
+---
+
 ## Resumen del problema
 
 Se predice el **tipo de cobertura forestal** (7 clases) de una parcela de 30×30 m a partir de 54
